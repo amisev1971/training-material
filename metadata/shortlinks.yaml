@@ -460,6 +460,7 @@ name:
   fair/data-management: "/topics/fair/tutorials/data-management/tutorial.html"
   fair/fair-gtn: "/topics/fair/tutorials/fair-gtn/tutorial.html"
   fair/fair-intro: "/topics/fair/tutorials/fair-intro/tutorial.html"
+  fair/fair-by-design: "/topics/fair/tutorials/fair-by-design/tutorial.html"
   data-science/data-manipulation-olympics-jq: "/topics/data-science/tutorials/data-manipulation-olympics-jq/tutorial.html"
   data-science/data-manipulation-olympics-viz-r: "/topics/data-science/tutorials/data-manipulation-olympics-viz-r/tutorial.html"
   teaching/workshop-final-exercise: "/topics/teaching/tutorials/workshop-final-exercise/tutorial.html"
