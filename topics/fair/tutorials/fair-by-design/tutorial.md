@@ -3,29 +3,32 @@ layout: tutorial_hands_on
 title: FAIR-by-design
 abbreviations:
   FAIR: Findable, Accessible, Interoperable, Reusable
-zenodo_link: 'https://zenodo.org/records/11548062'
+zenodo_link: https://zenodo.org/records/11548062
 questions:
-- What do the FAIR principles stand for [Wilkinson et al. 2016](https://www.nature.com/articles/sdata201618)?
-- How to develop FAIR learning materials? 
+  - What do the FAIR principles stand for [Wilkinson et al. 2016](https://www.nature.com/articles/sdata201618)?
+  - How to develop FAIR learning materials?
 objectives:
-- Define FAIR learning objects
-- Adapt and mix FAIR learning objects
-- Identify licenses and attribute correspondingly
-- Structure comprehensive learning materials
-- Manage file formats and tools
-- Define metadata using a schema
-- Create and publish FAIR-by-Design learning materials
-- Collaborate with other instructors
-- Assess FAIR-ness of existing learning objects
-time_estimation: "XXM"
+  - Define FAIR learning objects
+  - Adapt and mix FAIR learning objects
+  - Identify licenses and attribute correspondingly
+  - Structure comprehensive learning materials
+  - Manage file formats and tools
+  - Define metadata using a schema
+  - Create and publish FAIR-by-Design learning materials
+  - Collaborate with other instructors
+  - Assess FAIR-ness of existing learning objects
+time_estimation: 60M
 key_points:
-- FAIR data are data which meet principles of findability, accessibility, interoperability, and reusability (FAIR).
-- FAIR data are as open as possible, and as closed as necessary.
-- The main objective of FAIR data is to increase data reuse by researchers. 
+  - FAIR data are data which meet principles of findability, accessibility, interoperability, and reusability (FAIR).
+  - FAIR data are as open as possible, and as closed as necessary.
+  - The main objective of FAIR data is to increase data reuse by researchers.
 tags:
-- fair
-- FAIR by design
-- Learning objects
+  - fair
+  - FAIR
+  - by
+  - design
+  - Learning
+  - objects
 priority: 1
 contributions:
   authorship:
@@ -34,8 +37,6 @@ contributions:
     - korvoj
   funding:
     - skills4eosc
-subtopic: 
-
 ---
 
 
