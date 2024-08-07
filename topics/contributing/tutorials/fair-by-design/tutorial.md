@@ -37,7 +37,7 @@ contributions:
     - korvoj
   funding:
     - skills4eosc
-subtopic: fair-by-design
+
 ---
 
 
